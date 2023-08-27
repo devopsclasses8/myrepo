@@ -1,0 +1,17 @@
+cv2- Opencv(captuting video)
+one can process images and videos to identify objects, faces, or 
+even handwriting of a human
+
+PIL ( Python Imaging Library)
+provides support for opening, manipulating, and saving many 
+different image file formats.
+
+IPyWidgets is a Python library of HTML interactive widgets
+ They enhance the interactive feature of application.
+
+NumPy is a Python library used for working with arrays
+
+skimage: Most functions of skimage can take 3D images as input 
+arguments
+Several different geometric transformation types are supported
+affine,
